@@ -1,0 +1,30 @@
+_repo: The-Town-Traveller_4308
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gissing, George
+    alias: Gissing, George Robert
+    birthdate: 1857
+    deathdate: 1903
+    gutenberg_agent_id: '641'
+    url: http://www.gutenberg.org/2009/agents/641
+    wikipedia: http://en.wikipedia.org/wiki/George_Gissing
+description: The author of New Grub Street turns to farce in this 1898 novel, one
+  of his most popular during his lifetime. Our hero, Gammon, tangles with his landlady
+  Mrs. Bubb, the shady detective Greenacre, the bigamous Lord Polperro, and young
+  Polly Sparkes, caught up in a rollicking chase about London on New Year's Eve.
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4308'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- 19th century'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Town Traveller
+url: http://www.gutenberg.org/ebooks/4308
