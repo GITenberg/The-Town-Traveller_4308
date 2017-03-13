@@ -1,5 +1,8 @@
 _repo: The-Town-Traveller_4308
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gissing, George
@@ -13,6 +16,8 @@ description: The author of New Grub Street turns to farce in this 1898 novel, on
   of his most popular during his lifetime. Our hero, Gammon, tangles with his landlady
   Mrs. Bubb, the shady detective Greenacre, the bigamous Lord Polperro, and young
   Polly Sparkes, caught up in a rollicking chase about London on New Year's Eve.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4308#The-Town-Traveller
 gutenberg_issued: '2003-08-01'
 gutenberg_type: Text
 identifiers:
